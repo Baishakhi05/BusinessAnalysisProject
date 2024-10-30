@@ -3,7 +3,7 @@ This project consists of business analysis and process flow mapping for an exist
 To begin with, our company is facing within their procurement department due to lack of necessary tracking in their contract management system.
 Inorder to bridge the gap, the current process and expected process to set up a contract was analysed to meet the objective of the changes to be introduced in the contract management suystem.
 
-The issues faced by current system include:
+Issues faced by current system include:
 1. No visibility of the line manager in the supplier contract workspace
 2. Line manager not able to track status of supplier contracts falling under his/her team
 3. No mechanism to track spend data against the products purchased
